@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi Everyone 
 
-# Hi, I’m Siva Balaji Eevana 👋
+# Hi, I’m Siva Balaji Eevana 
 
 Backend / Full-Stack Developer (MERN) and 3rd-year B.Tech CSE student.  
 I focus on building **real-world web applications**, REST APIs, secure
